@@ -1,6 +1,7 @@
 Hi there 👋
 
 - 🌱 I’m currently learning about dApps and building smart contracts with Solidity
+- 🔭 I’m currently working on a project!
 - 🏠 Based in New York
 - 📫 How to reach me: tamo.nyc@gmail.com
 - ⚡ Fun fact: I listen to Lofi when I code/work.
