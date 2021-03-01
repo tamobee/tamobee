@@ -11,10 +11,10 @@
     <br><br>Looking to collaborate on fun projects👩🏼‍💻
   </samp>
 </p>
-<br><br>
-<h3><p align="center">
-  <samp> 📈 My Github Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamobee&show_icons=true&theme=tokyonight) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tamobee&layout=compact&theme=tokyonight)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tamobee)
+<br>
+<details>
+  <summary><b><samp> 📈 My Github Stats</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamobee&show_icons=true&theme=tokyonight"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamobee&layout=compact&theme=tokyonight"/><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamobee"/>
+</details>
