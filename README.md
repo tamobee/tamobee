@@ -1,10 +1,8 @@
-<h3><p align="center">
+<h4><p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1614617249/15782/balloons.gif?1614617249" width="35"/> 
-  <samp> Hi there! Nice to see you.</h3>
-  <br><br>
+  <samp> Hi there! Nice to see you.</h4>
 <p align="center">
-  <samp>
-    🌱 I’m currently learning about dApps
+  <samp>🌱 I’m currently learning about dApps
     <br>and building smart contracts with Solidity
     <br>🔭 I’m currently working on a project!
     <br>🏠 Based in New York
