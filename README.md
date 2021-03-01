@@ -1,32 +1,22 @@
-Hi there 👋
-
-- 🌱 I’m currently learning about dApps and building smart contracts with Solidity
-- 🔭 I’m currently working on a project!
-- 🏠 Based in New York
-- 📫 How to reach me: tamo.nyc@gmail.com
-- ⚡ Fun fact: I listen to lo-fi when I code/work.
-
-#### ✨ Looking to collaborate on fun projects 👩🏼‍💻
-
----
-
-#### 📈 My Github Stats
+<h3><p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1614617249/15782/balloons.gif?1614617249" width="35"/> 
+  <samp> Hi there! Nice to see you.</h3>
+  <br><br>
+<p align="center">
+  <samp>
+    🌱 I’m currently learning about dApps
+    <br>and building smart contracts with Solidity
+    <br>🔭 I’m currently working on a project!
+    <br>🏠 Based in New York
+    <br>⚡ Fun fact: I listen to lo-fi when I code/work.<br><br>
+    <img src="https://i.imgur.com/IWRG4TF.gif" width="270px" align="center">
+    <br><br>:coffee: Looking to collaborate on fun projects👩🏼‍💻
+  </samp>
+</p>
+<br><br>
+<h3><p align="center">
+  <samp> 📈 My Github Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamobee&show_icons=true&theme=tokyonight) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tamobee&layout=compact&theme=tokyonight)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tamobee)
-
-<!--
-**tamobee/tamobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python 🐍 and Solidity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
