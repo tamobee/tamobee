@@ -4,7 +4,7 @@ Hi there 👋
 - 🔭 I’m currently working on a project!
 - 🏠 Based in New York
 - 📫 How to reach me: tamo.nyc@gmail.com
-- ⚡ Fun fact: I listen to Lofi when I code/work.
+- ⚡ Fun fact: I listen to lo-fi when I code/work.
 
 #### ✨ Looking to collaborate on fun projects 👩🏼‍💻
 
