@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 - 🌱 I’m currently learning Python 🐍 and Solidity
 - 🏠 Based in New York
