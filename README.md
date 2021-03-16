@@ -4,7 +4,7 @@
 <p align="center">
   <samp>🌱 I’m currently learning about dApps
     <br>and building smart contracts with Solidity
-    <br>🔭 I’m currently working on a project!
+    <br>🔭 I’m currently working on a project; blockchain based wine traceability system!
     <br>🏠 Based in New York
     <br>⚡ Fun fact: I listen to lo-fi when I code/work.<br><br>
     <img src="https://i.imgur.com/IWRG4TF.gif" width="270px" align="center">
