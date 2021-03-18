@@ -2,8 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1614617249/15782/balloons.gif?1614617249" width="35"/> 
   <samp> Hi there! Nice to see you.</h3>
 <p align="center">
-  <samp>🌱 I’m currently learning about dApps
-    <br>and building smart contracts with Solidity
+  <samp>🌱 I’m currently learning dApp development
     <br>🔭 I’m currently collaborating on a project; blockchain based wine traceability system!
     <br>🏠 Based in New York
     <br>⚡ Fun fact: I listen to lo-fi when I code/work.<br><br>
