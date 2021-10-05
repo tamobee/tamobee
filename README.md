@@ -1,4 +1,4 @@
-<h3><p align="center">
+<!-- <h3><p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1614617249/15782/balloons.gif?1614617249" width="35"/> 
   <samp> Hi there! Nice to see you.</h3>
 <p align="center">
@@ -16,3 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamobee&layout=compact&theme=tokyonight"/><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tamobee"/>
 </details>
+ -->
