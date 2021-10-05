@@ -5,7 +5,6 @@
   <samp>🌱 I’m currently learning dApp development
     <br>🔭 I’m currently collaborating on a project; blockchain based wine traceability system!
     <br>🏠 Based in New York
-    <br>⚡ Fun fact: I listen to lo-fi when I code/work.<br><br>
     <img src="https://i.imgur.com/IWRG4TF.gif" width="270px" align="center">
     <br><br>Looking to collaborate on fun projects👩🏼‍💻
   </samp>
